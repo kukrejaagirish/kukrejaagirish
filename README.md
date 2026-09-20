@@ -1,5 +1,5 @@
 # 💫 About Me:
-Girish Ramesh Kukreja<br><br>I build software using AI-assisted tools — from quick prototypes to fully working apps. Currently pursuing an MMS in Systems, with a background in Banking & Insurance.<br><br>🎓 MMS (Systems) — H. & G. H. Mansukhani Institute of Management, HSNC University, Mumbai<br>💼 B.Com, Banking & Insurance<br>🤖 Focus areas: AI-assisted engineering, cybersecurity, and systems design<br>📜 Certifications: OPSWAT ICIP · Ethical Hacking · Anthropic API/MCP
+Mr.Girish Ramesh Kukreja<br><br>I build software using AI-assisted tools — from quick prototypes to fully working apps. Currently pursuing an MMS in Systems, with a background in Banking & Insurance.<br><br>🎓 MMS (Systems) — H. & G. H. Mansukhani Institute of Management, HSNC University, Mumbai<br>💼 B.Com, Banking & Insurance<br>🤖 Focus areas: AI-assisted engineering, cybersecurity, and systems design<br>📜 Certifications: OPSWAT ICIP · Ethical Hacking · Anthropic API/MCP
 
 
 ## 🌐 Socials:
